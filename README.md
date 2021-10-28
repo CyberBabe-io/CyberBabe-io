@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...learning, furthering my skills
 - 🌱 I’m currently learning ...basic coding 
 - 💞️currently in college.
-- 📫 
+
 
 <!---
 CyberBabe-io/CyberBabe-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
